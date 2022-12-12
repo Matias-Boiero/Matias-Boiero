@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development.
 - 🌱 I’m currently learning .Net and Python tecnologies to implement web and mobile applications.
 - 💞️ I’m looking to collaborate on different projects and learn from different developers.
-- 📫 How to reach me... write to me at maty_boiero@hotmail.com.
+- 📫 How to reach me... write to me at maty_boiero@hotmail.com
 
 <!---
 Matias-Boiero/Matias-Boiero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
